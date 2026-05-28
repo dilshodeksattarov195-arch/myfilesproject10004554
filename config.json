@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cartselete",
+        "uuid": 45658404,
+        "checksum": "8b78st"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
